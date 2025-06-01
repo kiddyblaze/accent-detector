@@ -1,0 +1,7 @@
+
+streamlit
+requests
+moviepy
+torch
+torchaudio
+speechbrain
